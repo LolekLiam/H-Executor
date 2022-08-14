@@ -1,0 +1,31 @@
+C:\Users\liams\source\repos\H Executor\H Executor\bin\Release\H Executor.exe.config
+C:\Users\liams\source\repos\H Executor\H Executor\bin\Release\H Executor.exe
+C:\Users\liams\source\repos\H Executor\H Executor\bin\Release\H Executor.pdb
+C:\Users\liams\source\repos\H Executor\H Executor\bin\Release\DeltaCompressionDotNet.dll
+C:\Users\liams\source\repos\H Executor\H Executor\bin\Release\DeltaCompressionDotNet.MsDelta.dll
+C:\Users\liams\source\repos\H Executor\H Executor\bin\Release\DeltaCompressionDotNet.PatchApi.dll
+C:\Users\liams\source\repos\H Executor\H Executor\bin\Release\FastColoredTextBox.dll
+C:\Users\liams\source\repos\H Executor\H Executor\bin\Release\Mono.Cecil.dll
+C:\Users\liams\source\repos\H Executor\H Executor\bin\Release\Mono.Cecil.Mdb.dll
+C:\Users\liams\source\repos\H Executor\H Executor\bin\Release\Mono.Cecil.Pdb.dll
+C:\Users\liams\source\repos\H Executor\H Executor\bin\Release\Mono.Cecil.Rocks.dll
+C:\Users\liams\source\repos\H Executor\H Executor\bin\Release\NuGet.Squirrel.dll
+C:\Users\liams\source\repos\H Executor\H Executor\bin\Release\SharpCompress.dll
+C:\Users\liams\source\repos\H Executor\H Executor\bin\Release\Squirrel.dll
+C:\Users\liams\source\repos\H Executor\H Executor\bin\Release\WeAreDevs_API.dll
+C:\Users\liams\source\repos\H Executor\H Executor\bin\Release\Mono.Cecil.pdb
+C:\Users\liams\source\repos\H Executor\H Executor\bin\Release\Mono.Cecil.Mdb.pdb
+C:\Users\liams\source\repos\H Executor\H Executor\bin\Release\Mono.Cecil.Pdb.pdb
+C:\Users\liams\source\repos\H Executor\H Executor\bin\Release\Mono.Cecil.Rocks.pdb
+C:\Users\liams\source\repos\H Executor\H Executor\bin\Release\NuGet.Squirrel.pdb
+C:\Users\liams\source\repos\H Executor\H Executor\bin\Release\Squirrel.pdb
+C:\Users\liams\source\repos\H Executor\H Executor\obj\Release\H Executor.csproj.AssemblyReference.cache
+C:\Users\liams\source\repos\H Executor\H Executor\obj\Release\H Executor.csproj.SuggestedBindingRedirects.cache
+C:\Users\liams\source\repos\H Executor\H Executor\obj\Release\H_Executor.Form1.resources
+C:\Users\liams\source\repos\H Executor\H Executor\obj\Release\H_Executor.Properties.Resources.resources
+C:\Users\liams\source\repos\H Executor\H Executor\obj\Release\H_Executor.ScriptHub.resources
+C:\Users\liams\source\repos\H Executor\H Executor\obj\Release\H Executor.csproj.GenerateResource.cache
+C:\Users\liams\source\repos\H Executor\H Executor\obj\Release\H Executor.csproj.CoreCompileInputs.cache
+C:\Users\liams\source\repos\H Executor\H Executor\obj\Release\H Executor.csproj.CopyComplete
+C:\Users\liams\source\repos\H Executor\H Executor\obj\Release\H Executor.exe
+C:\Users\liams\source\repos\H Executor\H Executor\obj\Release\H Executor.pdb

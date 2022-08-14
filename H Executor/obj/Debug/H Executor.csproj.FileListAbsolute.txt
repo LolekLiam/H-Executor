@@ -1,0 +1,15 @@
+C:\Users\liams\source\repos\H Executor\H Executor\bin\Debug\H Executor.exe.config
+C:\Users\liams\source\repos\H Executor\H Executor\bin\Debug\H Executor.exe
+C:\Users\liams\source\repos\H Executor\H Executor\bin\Debug\H Executor.pdb
+C:\Users\liams\source\repos\H Executor\H Executor\bin\Debug\FastColoredTextBox.dll
+C:\Users\liams\source\repos\H Executor\H Executor\obj\Debug\H Executor.csproj.AssemblyReference.cache
+C:\Users\liams\source\repos\H Executor\H Executor\obj\Debug\H Executor.csproj.SuggestedBindingRedirects.cache
+C:\Users\liams\source\repos\H Executor\H Executor\obj\Debug\H_Executor.Form1.resources
+C:\Users\liams\source\repos\H Executor\H Executor\obj\Debug\H_Executor.Properties.Resources.resources
+C:\Users\liams\source\repos\H Executor\H Executor\obj\Debug\H Executor.csproj.GenerateResource.cache
+C:\Users\liams\source\repos\H Executor\H Executor\obj\Debug\H Executor.csproj.CoreCompileInputs.cache
+C:\Users\liams\source\repos\H Executor\H Executor\obj\Debug\H Executor.csproj.CopyComplete
+C:\Users\liams\source\repos\H Executor\H Executor\obj\Debug\H Executor.exe
+C:\Users\liams\source\repos\H Executor\H Executor\obj\Debug\H Executor.pdb
+C:\Users\liams\source\repos\H Executor\H Executor\obj\Debug\H_Executor.ScriptHub.resources
+C:\Users\liams\source\repos\H Executor\H Executor\bin\Debug\WeAreDevs_API.dll
